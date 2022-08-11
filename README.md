@@ -1,6 +1,8 @@
 # RobotSimulator
 Download https://visualstudio.microsoft.com/vs/ Visual Studio. Install the software to your computer
 
+Clone the project source code at https://github.com/quangdalat/RobotSimulator to your local computer
+
 Open project by click on Robot simulator.sln file
 
 Click on Run button on Visual Studio to compile the project https://prnt.sc/4uqApZHhKbY2
