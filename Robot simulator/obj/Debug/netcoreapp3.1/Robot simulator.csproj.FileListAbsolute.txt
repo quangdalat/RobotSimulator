@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\Robot simulator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\Robot simulator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\Robot simulator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\Robot simulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\Robot simulator.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.exe
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.deps.json
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.json
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\bin\Debug\netcoreapp3.1\RobotSimulator.pdb
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\RobotSimulator.dll
+C:\Users\Admin\source\repos\Robot simulator\Robot simulator\obj\Debug\netcoreapp3.1\RobotSimulator.pdb
